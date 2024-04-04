@@ -1,0 +1,18 @@
+package com.Y4J.feb_batch;
+
+public class StudentRecordExample {
+ int id;
+ String Name;
+ 
+	public StudentRecordExample(int i, String n) {
+	
+	id = i;
+	Name = n;
+}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

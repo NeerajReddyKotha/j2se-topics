@@ -1,0 +1,10 @@
+package com.Y4J.feb_batch;
+
+public class StudentRecord {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

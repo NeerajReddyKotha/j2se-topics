@@ -1,0 +1,8 @@
+package com.Y4J.feb_batch;
+
+public class Demo {
+public static void main(String[] args) {
+	String str = "Hellow";
+	System.out.println(str.indexOf('t'));
+}
+}

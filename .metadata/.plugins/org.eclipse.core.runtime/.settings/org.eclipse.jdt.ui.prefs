@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.Y4J.feb_batch.InstanceVariable"><rhs name\="com.Y4J.feb_batch.InstanceVariable"/></lhs><lhs name\="com.Y4J.feb_batch.ThisKeyWord"><rhs name\="com.Y4J.feb_batch.ThisKeyWord"/></lhs><lhs name\="com.Y4J.feb_batch.vechile"><rhs name\="com.Y4J.feb_batch.MethodOverRiding"/></lhs><lhs name\="com.Y4J.feb_batch.MethodOverRiding"><rhs name\="com.Y4J.feb_batch.MethodOverRiding"/></lhs><lhs name\="com.Y4J.feb_batch.vehicle"><rhs name\="com.Y4J.feb_batch.MethodOverRide"/></lhs><lhs name\="com.Y4J.feb_batch.MethodOverRide"><rhs name\="com.Y4J.feb_batch.MethodOverRide"/></lhs><lhs name\="com.Y4J.feb_batch.Employee"><rhs name\="com.Y4J.feb_batch.programmer"/></lhs><lhs name\="com.Y4J.feb_batch.programmer"><rhs name\="com.Y4J.feb_batch.programmer"/></lhs><lhs name\="com.Y4J.feb_batch.EncapuslationConcept"><rhs name\="com.Y4J.feb_batch.EncapuslationConcept"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/><rhs name\="java.io.FileWriter"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/><rhs name\="java.io.FileWriter"/></lhs><lhs name\="java.io.OutputStreamWriter"><rhs name\="java.io.FileWriter"/></lhs><lhs name\="java.io.Writer"><rhs name\="java.io.FileWriter"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.io.FileWriter"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.FileWriter"/></lhs><lhs name\="java.io.FileWriter"><rhs name\="java.io.FileWriter"/></lhs><lhs name\="com.Y4J.feb_batch_package.Product"><rhs name\="com.Y4J.feb_batch_package.Product"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

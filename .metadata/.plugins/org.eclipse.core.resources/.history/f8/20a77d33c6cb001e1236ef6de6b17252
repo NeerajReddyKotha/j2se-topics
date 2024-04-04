@@ -1,0 +1,13 @@
+package com.Y4J.feb_batch;
+
+public class DifferenceOfTwoNumbers {
+
+		int firstnumber =30;
+		int secondnumber = 20;
+		int difference = firstnumber-secondnumber;
+	public static void main(String[] args) {
+		
+
+	}
+
+}

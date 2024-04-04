@@ -1,0 +1,10 @@
+package com.Y4J.feb_batch;
+
+public class DifferenceOfTwoNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
